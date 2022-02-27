@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent from several agitators of the Army to their respective regiments: viz. the generals lieut. generals commissary generals Col. Harrisons Col. Hortons Col. Fleetwoods Col. Lilburns Col. Whaleys. Wherein is discovered the ground of the present differences between them and the General Councel, concerning the King; and the establishment of common right and freedom, for all people in this kingdom. With a true account of the proceedings of the General Councel thereupon.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88010</idno>
+            <idno type="STC">Wing L1604</idno>
+            <idno type="STC">Thomason E414_8</idno>
+            <idno type="STC">ESTC R202834</idno>
+            <idno type="EEBO-CITATION">99862994</idno>
+            <idno type="PROQUEST">99862994</idno>
+            <idno type="VID">115174</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88010)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115174)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E414[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent from several agitators of the Army to their respective regiments: viz. the generals lieut. generals commissary generals Col. Harrisons Col. Hortons Col. Fleetwoods Col. Lilburns Col. Whaleys. Wherein is discovered the ground of the present differences between them and the General Councel, concerning the King; and the establishment of common right and freedom, for all people in this kingdom. With a true account of the proceedings of the General Councel thereupon.</title>
+                  <author>Sexby, Edward, d. 1658.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Harris,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Edward Sexby [and 14 others].</note>
+                  <note>Imperfect: staining and print show-through.</note>
+                  <note>Annotation on Thomason copy: "Nou: 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Political activity --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115174:1" rendition="simple:additions"/>
+            <p>A LETTER ſent from ſeveral AGITATORS of the ARMY To their RESPECTIVE REGIMENTS: <hi>VIZ.</hi>
+               <list>
+                  <item>
+                     <hi>The Generals</hi>
+                  </item>
+                  <item>
+                     <hi>Lieut. Generals</hi>
+                  </item>
+                  <item>
+                     <hi>Commiſsary Generals</hi>
+                  </item>
+                  <item>Col. <hi>Harriſons</hi>
+                  </item>
+                  <item>Col. <hi>Hortons</hi>
+                  </item>
+                  <item>Col. <hi>Fleetwoods</hi>
+                  </item>
+                  <item>Col. <hi>Lilburns</hi>
+                  </item>
+                  <item>Col. <hi>Whaleys.</hi>
+                  </item>
+               </list> Wherein is diſcovered the ground of the preſent differences between them and the General Councel, concerning the King; and the eſta<g ref="char:EOLhyphen"/>bliſhment of Common Right and Freedom, for all People in this Kingdom. With a true Account of the Proceedings of the General Councel thereupon.</p>
+            <p>LONDON, Printed for <hi>John Harris.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115174:2"/>
+            <pb n="3" facs="tcp:115174:2"/>
+            <head>A Letter ſent from the Agitators of ſeveral Regiments of the Army to their reſpective Regiments &amp;c.</head>
+            <opener>
+               <salute>Gentlemen and Fellow Soldiers,</salute>
+            </opener>
+            <p>WE eſteem it our duty to render you an Account of the preſent ſtate of our affairs with us, and at the head quar<g ref="char:EOLhyphen"/>ter: We have been conſulting about the moſt ſpeedy and effectual ſettlement of your and all the peoples Freedoms, whereby the people may be diſpoſed into a capacity and willingneſs to provide conſtant pay, and ſecure our Arrears: we found by ſad experience, that there was ſo poſſibility of obtaining either<g ref="char:punc">▪</g> ſo long as the ſettlement of the peoples freedoms was delay'd, and therefore as well in love and reall re<g ref="char:EOLhyphen"/>ſpects, to you, and to our dear Country; we were conſtrained to propound the foundations of freedome to be forthwith eſtabliſhe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by a mutual agreement be<g ref="char:EOLhyphen"/>tween the people and you: and though we dare aver that there is nothing contained in that <hi>Agreement,</hi> or in the <hi>Caſe of the Army ſtated,</hi> which is propounded to be inſiſted on, but what is (at leaſt) the equitable ſenſe
+<pb n="4" facs="tcp:115174:3"/>of our former Declarations and Remonſtrances; yet we find many at the Head quarters, obſtructing and oppoſing our proceedings.</p>
+            <p>We ſent ſome to them to debate in Love, the matters and manner of the Agreement: And the firſt Article thereof, being long debated, it was concluded by Vote in the affirmative: viz. <hi>That all Soldiers and others, if they be not Servants or Beggars, ought to have voyces in electing thoſe which ſhal repreſent them in Parliament, al<g ref="char:EOLhyphen"/>though they have not forty ſhillings</hi> per annum <hi>in free<g ref="char:EOLhyphen"/>hold Land;</hi> and there were but three voyces againſt this your Native Freedom: after this they would re<g ref="char:EOLhyphen"/>fer all to a Committee: And the next General Coun<g ref="char:EOLhyphen"/>cel our friends obtained a general Rendezvouz, and a Letter from the Councel to clear the Army from any deſire or intent of conſtraining the Parliament to ſend new Propoſitions to the King, <hi>Whereby your Indempni<g ref="char:EOLhyphen"/>ty for fighting againſt the King ſhould be beggd of the King,</hi> and ſo the guilt of innocent blood taken upon your own heads; and your Enemies ſhould boaſt and inſult over you, ſaying, you were forced to ask them to ſave you harmleſs: At the next meeting a Declaration was of<g ref="char:EOLhyphen"/>fered to the Councel, wherein the Kings Corrupt In<g ref="char:EOLhyphen"/>tereſt was ſo intermixt, that in ſhort time, if he ſhould ſo come in, he would be in a capacity to deſtroy you and the people; and aſſure your ſelves, if any power be but in the leaſt given to him, he wil improve it to the utmoſt to enſlave or ruin you<g ref="char:punc">▪</g> that conquered him, and to advance your enemies to trample upon you: Upon this we deſired only a free debate of his queſtion, <hi>Whethen it were ſafe either for the Army or People to ſuffer any power to be given to the King:</hi> And Lieu. Gen. <hi>Crumwel</hi>
+               <pb n="5" facs="tcp:115174:3"/>and the reſt profeſſed as before God they would freely debate it; And Monday laſt a General Councel was appointed for that purpoſe, but when they met they wholy refuſed, and inſtead of that, ſpake very reproachfully of us and our actings, and declaimed againſt that which was paſſed the Coun<g ref="char:EOLhyphen"/>cel before concerning the voyces of thoſe in electi<g ref="char:EOLhyphen"/>ons which have not forty ſhillings a year free-hold; And againſt the Letter ſent by the Councel to the Parliament: and the day before Commiſſary Ge<g ref="char:EOLhyphen"/>neral <hi>Ireton</hi> withdrew and proteſted he would act no more with them, unleſs they recall'd that Let<g ref="char:EOLhyphen"/>ter.</p>
+            <p>And to prevent any further debate they would have diſſolved the Councel for above a fortnight, and thus our hopes of agreeing together to ſettle your and the Peoples Freedoms were then fruſtrate: and though the chief of them had deſired ſome of our friends not above three days before to go on in their actings; for they might come in when they ſhould do us more ſervice then at that time; yet there they made great out-cries againſt us and complaints of diſtempers in the Army, which were nothing but endeavors after their Rights and Freedoms.</p>
+            <p>The next day they ſtil waved and refuſed the free debate of the aforeſaid queſtion, and diſolved the Councel for above a fortnight, and for a time re<g ref="char:EOLhyphen"/>ſolved; they would only prepare ſome fair propo<g ref="char:EOLhyphen"/>ſitions to the Army, about Arrears and pay, and ſent to the <hi>Parliament</hi> for a moneths pay againſt a <hi>Rendezvouze;</hi> but they declared they would divide
+<pb n="6" facs="tcp:115174:4"/>the Army into; parts, to <hi>Rendezvouze</hi> ſeverally and all this appears to be only to draw off the Ar<g ref="char:EOLhyphen"/>my from joyning together, to ſettle thoſe clear foundations of freedom propounded to you, and to procure your Rights, as you are Souldiers effectu<g ref="char:EOLhyphen"/>ally.</p>
+            <p>Thus you may obſerve the ſtrange unconſtancy of thoſe that would obſtruct our way, and the great matter wherein the difference lies, and the candid<g ref="char:EOLhyphen"/>nes of our Actings: but we hope it wil be no diſcou<g ref="char:EOLhyphen"/>ragement to you, though your Officers, yea the greateſt Officers ſhould oppoſe you<g ref="char:punc">▪</g> it's wel known, that the great Officers which now oppoſed, did as much oppoſe ſecretly, when we refuſed to dis<g ref="char:EOLhyphen"/>band, according to the <hi>Parliaments</hi> Order; and at laſt they confeſſed the providence of God was the more wonderful, becauſe thoſe Reſolutions, to ſtand for freedom and juſtice; began amongſt the Souldiers only; and yet now they would affright you from ſuch actings, by telling you it's diſobe<g ref="char:EOLhyphen"/>dience to the <hi>Generals Command,</hi> and diſtempers, and mutinies: Theſe were the words of that faction in <hi>Parliament</hi> which oppoſed you before; and you may conſider, that you had done as much ſervice for the people, by diſobedience to the Parliament, as ever you did by obedience, if you had fulfilled your <hi>De<g ref="char:EOLhyphen"/>clarations and Engagements</hi> which you then paſ<g ref="char:EOLhyphen"/>ſed.</p>
+            <p>As for the moneths pay, if it come, you may conſider, it's but your due; and yet we beleeve none had been procured for you, unleſs we had thus
+<pb n="7" facs="tcp:115174:4"/>appeared, and if any <hi>Declarations</hi> or <hi>Propoſitions</hi> a<g ref="char:EOLhyphen"/>bout pay or Arrears be offered to you, remember you have been fed with Paper too long; we deſire<g ref="char:punc">▪</g> that there may be a general <hi>Rendezvouze,</hi> and no parting each from other, til we be fully aſſured, we ſhal not return to burthen the Country by free quarter, and til our Arrears be actually ſecured, and the Foundations of our Free<g ref="char:EOLhyphen"/>dom, peace and ſecurity in the Agreement eſtabliſhed: And likewiſe, until a ſure way be ſetled, for calling Commitees, Sequeſtra<g ref="char:EOLhyphen"/>tors, and Parliament men, to account for the Countries money; that ſo the Country may know, we intend their Good and Freedom, we know ſome fair Overtures wil be made to you about pay, Arrears, ſeeming Free<g ref="char:EOLhyphen"/>dom and ſecurity; but we hope as you for<g ref="char:EOLhyphen"/>merly rejected ſuch Overtures from the par<g ref="char:EOLhyphen"/>liament, knowing that without a ſettlement of Freedom, no conſtant pay or Arrears wil be provided: ſo now we are confident you wil not be deceived, and hope you are all reſolved for a General Rendezvouze, that we may all agree together in fulfilling our Declarations and Engagemetts to the peo<g ref="char:EOLhyphen"/>ple,
+<pb n="8" facs="tcp:115174:5"/>that ſo we may not become the objects of ſcorn and hatred. We ſhal now add</p>
+            <closer>
+               <dateline>
+                  <date>NOVEM. 11. 1647.</date>
+               </dateline>
+               <signed>
+                  <hi>We are yours, &amp;c.</hi>
+                  <list>
+                     <item>
+                        <hi>Edward Sexby</hi> The Generals Regiment.</item>
+                     <item>
+                        <hi>Robert Everet</hi> Of Lieut. Generals Regiment.</item>
+                     <item>
+                        <hi>John Walter</hi> Of Lieut. Generals Regiment.</item>
+                     <item>
+                        <hi>Edmont Bear</hi> Of Lieut. Generals Regiment.</item>
+                     <item>
+                        <hi>Joſeph Aleyn</hi> Col. <hi>Harriſons.</hi>
+                     </item>
+                     <item>
+                        <hi>George Haſsall</hi> Commiſſary General IRETONS.</item>
+                     <item>
+                        <hi>William Perkins</hi> Commiſſary General IRETONS.</item>
+                     <item>
+                        <hi>Tobias <gap reason="illegible" resp="#OXF" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </hi> Col. HORTONS.</item>
+                     <item>
+                        <hi>William Ruſſel</hi> Colonel WHALEYS.</item>
+                     <item>
+                        <hi>Richard Seal</hi> Colonel WHALEYS.</item>
+                     <item>
+                        <hi>Richard Hilyer</hi> Col. LI<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>BURNS Regiment.</item>
+                     <item>
+                        <hi>The George</hi> Col. LI<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>BURNS Regiment.</item>
+                     <item>
+                        <hi>Iohn Nicholſon</hi> Col. FLEETVVOODS Regiment.</item>
+                     <item>
+                        <hi>Will. Pryer</hi> Col. FLEETVVOODS Regiment.</item>
+                     <item>
+                        <hi>Will. Mitchel</hi> Live-Guard.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
